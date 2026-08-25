@@ -1,226 +1,221 @@
-:root {
-  --bg: #07090c;
-  --panel: #171c20;
-  --border: #2b3136;
-  --text: #ededed;
-  --muted: #9fa5aa;
-  --accent: #ff8a00;
-  --accent-hover: #ff9f2f;
-  --carousel-height: 240px;
-}
-
-* { box-sizing: border-box; }
-
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background: linear-gradient(135deg, #07090c, #15191d);
-  color: var(--text);
-  line-height: 1.6;
-}
-
-a { color: var(--accent); text-decoration: none; }
-a:hover { color: var(--accent-hover); }
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 32px 20px 64px;
-}
-
-header {
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-header h1 {
-  margin: 0 0 8px;
-  font-size: 2.2rem;
-}
-
-header p {
-  color: var(--muted);
-  max-width: 760px;
-  margin: 0 auto 20px;
-}
-
-.top-actions {
-  display: flex;
-  justify-content: center;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-
-.btn {
-  display: inline-block;
-  padding: 10px 18px;
-  border-radius: 999px;
-  border: 1px solid var(--border);
-  background: var(--panel);
-  color: var(--text);
-  font-weight: 600;
-  cursor: pointer;
-  transition: 0.2s ease;
-}
-
-.btn:hover,
-.btn-primary:hover {
-  border-color: var(--accent);
-  color: var(--accent-hover);
-}
-
-.btn-primary {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: #111;
-}
-
-.btn-primary:hover {
-  background: var(--accent-hover);
-  color: #111;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 28px;
-}
-
-.project-card {
-  background: linear-gradient(135deg, #171c20, #0d1114);
-  border: 1.5px solid var(--border);
-  border-radius: 16px;
-  padding: 18px;
-}
-
-.project-card h2 {
-  margin: 0 0 10px;
-  font-size: 1.3rem;
-  text-align: center;
-}
-
-.description {
-  color: var(--muted);
-  font-size: 0.95rem;
-  line-height: 1.45;
-  margin: 0 0 14px;
-  text-align: center;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  min-height: 2.9em;
-}
-
-.carousel {
-  position: relative;
-  margin-bottom: 14px;
-}
-
-.carousel-viewport {
-  width: 100%;
-  height: var(--carousel-height);
-  overflow: hidden;
-  border-radius: 10px;
-  border: 1px solid #30363b;
-  background: #0d1114;
-}
-
-.carousel-track {
-  display: flex;
-  height: 100%;
-  transition: transform 0.35s ease;
-}
-
-.carousel-slide {
-  min-width: 100%;
-  height: 100%;
-  overflow: hidden;
-}
-
-/* Featured Projects style: fill frame edge-to-edge, anchor from top so titles stay visible */
-.carousel-slide.is-cover img {
-  width: 100%;
-  height: var(--carousel-height);
-  object-fit: cover;
-  object-position: top center;
-  display: block;
-}
-
-.carousel-slide.is-screenshot img {
-  width: 100%;
-  height: var(--carousel-height);
-  object-fit: cover;
-  object-position: top center;
-  display: block;
-}
-
-.carousel-btn {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 36px;
-  height: 36px;
-  border: none;
-  border-radius: 50%;
-  background: rgba(7, 9, 12, 0.78);
-  color: #fff;
-  font-size: 22px;
-  line-height: 1;
-  cursor: pointer;
-  border: 1px solid var(--border);
-}
-
-.carousel-btn:hover { border-color: var(--accent); color: var(--accent); }
-.carousel-btn.prev { left: 10px; }
-.carousel-btn.next { right: 10px; }
-
-.carousel-dots {
-  display: flex;
-  justify-content: center;
-  gap: 8px;
-  margin-top: 10px;
-}
-
-.dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  border: none;
-  background: #444b52;
-  cursor: pointer;
-  padding: 0;
-}
-
-.dot.active { background: var(--accent); }
-
-.card-actions {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.counter {
-  text-align: center;
-  color: var(--muted);
-  font-size: 0.85rem;
-  margin-top: 8px;
-}
-
-footer {
-  text-align: center;
-  margin-top: 48px;
-  color: var(--muted);
-}
-
-@media (max-width: 768px) {
-  .grid {
-    grid-template-columns: 1fr;
-  }
-
-  .carousel-viewport { height: var(--carousel-height); }
-
-  .carousel-slide.is-cover img,
-  .carousel-slide.is-screenshot img { height: var(--carousel-height); }
-}
+:root {
+  --bg: #07090c;
+  --panel: #171c20;
+  --border: #2b3136;
+  --text: #ededed;
+  --muted: #9fa5aa;
+  --accent: #ff8a00;
+  --accent-hover: #ff9f2f;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(135deg, #07090c, #15191d);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-hover); }
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 20px 64px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+header h1 {
+  margin: 0 0 8px;
+  font-size: 2.2rem;
+}
+
+header p {
+  color: var(--muted);
+  max-width: 760px;
+  margin: 0 auto 20px;
+}
+
+.top-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.btn:hover,
+.btn-primary:hover {
+  border-color: var(--accent);
+  color: var(--accent-hover);
+}
+
+.btn-primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #111;
+}
+
+.btn-primary:hover {
+  background: var(--accent-hover);
+  color: #111;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+}
+
+.project-card {
+  background: linear-gradient(135deg, #171c20, #0d1114);
+  border: 1.5px solid var(--border);
+  border-radius: 16px;
+  padding: 18px;
+}
+
+.project-card h2 {
+  margin: 0 0 10px;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.description {
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.45;
+  margin: 0 0 14px;
+  text-align: center;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.9em;
+}
+
+.carousel {
+  position: relative;
+  margin-bottom: 14px;
+}
+
+/* Height follows each cover image aspect ratio — full banner, no crop, no gaps */
+.carousel-viewport {
+  width: 100%;
+  aspect-ratio: 1039 / 883;
+  overflow: hidden;
+  border-radius: 10px;
+  border: 1px solid #30363b;
+  background: #0d1114;
+}
+
+.carousel-track {
+  display: flex;
+  height: 100%;
+  transition: transform 0.35s ease;
+}
+
+.carousel-slide {
+  min-width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.carousel-slide.is-cover img {
+  width: 100%;
+  height: auto;
+  display: block;
+  vertical-align: top;
+}
+
+.carousel-slide.is-screenshot img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center center;
+  display: block;
+  background: #0d1114;
+}
+
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(7, 9, 12, 0.78);
+  color: #fff;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+  border: 1px solid var(--border);
+}
+
+.carousel-btn:hover { border-color: var(--accent); color: var(--accent); }
+.carousel-btn.prev { left: 10px; }
+.carousel-btn.next { right: 10px; }
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  background: #444b52;
+  cursor: pointer;
+  padding: 0;
+}
+
+.dot.active { background: var(--accent); }
+
+.card-actions {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.counter {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 8px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 48px;
+  color: var(--muted);
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
