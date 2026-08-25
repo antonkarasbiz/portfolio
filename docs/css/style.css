@@ -6,6 +6,7 @@
   --muted: #9fa5aa;
   --accent: #ff8a00;
   --accent-hover: #ff9f2f;
+  --carousel-height: 400px;
 }
 
 * { box-sizing: border-box; }
@@ -22,9 +23,9 @@ a { color: var(--accent); text-decoration: none; }
 a:hover { color: var(--accent-hover); }
 
 .container {
-  max-width: 1200px;
+  max-width: 1440px;
   margin: 0 auto;
-  padding: 32px 20px 64px;
+  padding: 32px 24px 64px;
 }
 
 header {
@@ -89,7 +90,7 @@ header p {
   background: linear-gradient(135deg, #171c20, #0d1114);
   border: 1.5px solid var(--border);
   border-radius: 16px;
-  padding: 18px;
+  padding: 14px 12px 16px;
 }
 
 .project-card h2 {
@@ -113,13 +114,13 @@ header p {
 
 .carousel {
   position: relative;
-  margin-bottom: 14px;
+  margin: 0 -12px 14px;
 }
 
-/* Uniform frame — matches 900×600 cover images */
+/* Uniform 400px frame — matches 900×600 cover images */
 .carousel-viewport {
   width: 100%;
-  aspect-ratio: 900 / 600;
+  height: var(--carousel-height);
   overflow: hidden;
   border-radius: 10px;
   border: 1px solid #30363b;
@@ -216,5 +217,9 @@ footer {
 @media (max-width: 768px) {
   .grid {
     grid-template-columns: 1fr;
+  }
+
+  :root {
+    --carousel-height: 320px;
   }
 }
