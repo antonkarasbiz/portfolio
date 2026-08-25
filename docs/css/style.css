@@ -6,7 +6,7 @@
   --muted: #9fa5aa;
   --accent: #ff8a00;
   --accent-hover: #ff9f2f;
-  --carousel-height: 340px;
+  --carousel-height: 240px;
 }
 
 * { box-sizing: border-box; }
@@ -138,24 +138,12 @@ header p {
   overflow: hidden;
 }
 
-/* Slide 1 — full cover banner visible (title + artwork, no top crop) */
-.carousel-slide.is-cover img {
+/* Same frame as Featured Projects in README — fills div edge-to-edge */
+.carousel-slide img {
   width: 100%;
   height: var(--carousel-height);
-  object-fit: contain;
-  object-position: center center;
+  object-fit: cover;
   display: block;
-  background: #0d1114;
-}
-
-/* Additional screenshots — full image visible, not cropped */
-.carousel-slide.is-screenshot img {
-  width: 100%;
-  height: var(--carousel-height);
-  object-fit: contain;
-  object-position: center center;
-  display: block;
-  background: #0d1114;
 }
 
 .carousel-btn {
@@ -224,6 +212,5 @@ footer {
 
   .carousel-viewport { height: var(--carousel-height); }
 
-  .carousel-slide.is-cover img,
-  .carousel-slide.is-screenshot img { height: var(--carousel-height); }
+  .carousel-slide img { height: var(--carousel-height); }
 }
