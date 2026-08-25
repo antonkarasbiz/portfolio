@@ -1,0 +1,225 @@
+﻿[
+    {
+        "slug":  "qloapps",
+        "name":  "01. QloApps",
+        "url":  "https://qloapps.com/",
+        "category":  "Full-Stack Web Application / Booking \u0026 Reservation",
+        "description":  "Open-source hotel-management and reservation platform covering PMS, online booking, hotel websites, and channel management.",
+        "images":  [
+                       "projects/qloapps/cover.png",
+                       "projects/qloapps/screenshot-01.png",
+                       "projects/qloapps/screenshot-02.png",
+                       "projects/qloapps/screenshot-03.png",
+                       "projects/qloapps/screenshot-04.png",
+                       "projects/qloapps/screenshot-05.png",
+                       "projects/qloapps/screenshot-06.png"
+                   ]
+    },
+    {
+        "slug":  "littleaibox",
+        "name":  "02. LittleAIBox",
+        "url":  "https://littleaibox.com/",
+        "category":  "AI-Powered Application",
+        "description":  "Privacy-focused AI chat platform providing AI-assisted conversations, coding, writing, translation, and research tools.",
+        "images":  [
+                       "projects/littleaibox/cover.png"
+                   ]
+    },
+    {
+        "slug":  "paradex",
+        "name":  "03. Paradex",
+        "url":  "https://www.paradex.trade/",
+        "category":  "Blockchain/Web3 / Real-Time Web Application",
+        "description":  "Decentralized trading platform combining blockchain technology with a high-performance exchange experience.",
+        "images":  [
+                       "projects/paradex/cover.png",
+                       "projects/paradex/screenshot-01.png",
+                       "projects/paradex/screenshot-02.png",
+                       "projects/paradex/screenshot-03.png",
+                       "projects/paradex/screenshot-04.png",
+                       "projects/paradex/screenshot-05.png"
+                   ]
+    },
+    {
+        "slug":  "dentalpin",
+        "name":  "04. DentalPin",
+        "url":  "https://demo.dentalpin.com/login",
+        "category":  "Healthcare Management / Database \u0026 API Integration",
+        "description":  "Dental-clinic management application designed to manage patients, appointments, budgets, payments, and day-to-day clinic operations.",
+        "images":  [
+                       "projects/dentalpin/cover.png",
+                       "projects/dentalpin/screenshot-01.png",
+                       "projects/dentalpin/screenshot-02.png",
+                       "projects/dentalpin/screenshot-03.png",
+                       "projects/dentalpin/screenshot-04.png"
+                   ]
+    },
+    {
+        "slug":  "v7labs",
+        "name":  "05. V7 Labs",
+        "url":  "https://www.v7labs.com/",
+        "category":  "AI Platform / Computer Vision \u0026 Data Extraction",
+        "description":  "AI platform for document processing, computer vision, medical AI, and intelligent data extraction.",
+        "images":  [
+                       "projects/v7labs/cover.png",
+                       "projects/v7labs/screenshot-01.png",
+                       "projects/v7labs/screenshot-02.png",
+                       "projects/v7labs/screenshot-03.png",
+                       "projects/v7labs/screenshot-04.png",
+                       "projects/v7labs/screenshot-05.png",
+                       "projects/v7labs/screenshot-06.png",
+                       "projects/v7labs/screenshot-07.png",
+                       "projects/v7labs/screenshot-08.png",
+                       "projects/v7labs/screenshot-09.png"
+                   ]
+    },
+    {
+        "slug":  "folk",
+        "name":  "06. folk",
+        "url":  "https://www.folk.app/",
+        "category":  "CRM / Relationship Management SaaS",
+        "description":  "Relationship-focused CRM designed for founders, agencies, sales teams, and growing businesses.",
+        "images":  [
+                       "projects/folk/cover.png",
+                       "projects/folk/screenshot-01.png",
+                       "projects/folk/screenshot-02.png",
+                       "projects/folk/screenshot-03.png",
+                       "projects/folk/screenshot-04.png"
+                   ]
+    },
+    {
+        "slug":  "whatnot",
+        "name":  "07. Whatnot",
+        "url":  "https://www.whatnot.com/",
+        "category":  "E-Commerce / Live Streaming Marketplace",
+        "description":  "Live-shopping marketplace where sellers showcase products through interactive livestreams.",
+        "images":  [
+                       "projects/whatnot/cover.png",
+                       "projects/whatnot/screenshot-01.png",
+                       "projects/whatnot/screenshot-02.png",
+                       "projects/whatnot/screenshot-03.png",
+                       "projects/whatnot/screenshot-04.png",
+                       "projects/whatnot/screenshot-05.png",
+                       "projects/whatnot/screenshot-06.png",
+                       "projects/whatnot/screenshot-07.png"
+                   ]
+    },
+    {
+        "slug":  "tebra",
+        "name":  "08. Tebra",
+        "url":  "https://www.tebra.com/",
+        "category":  "Healthcare Management / Practice Management",
+        "description":  "Healthcare practice-management platform for medical practices and healthcare providers.",
+        "images":  [
+                       "projects/tebra/cover.png",
+                       "projects/tebra/screenshot-01.png",
+                       "projects/tebra/screenshot-02.png",
+                       "projects/tebra/screenshot-03.png",
+                       "projects/tebra/screenshot-04.png"
+                   ]
+    },
+    {
+        "slug":  "mercury",
+        "name":  "09. Mercury",
+        "url":  "https://mercury.com/",
+        "category":  "FinTech / Banking \u0026 Payments Platform",
+        "description":  "Modern business banking platform designed primarily for startups and growing companies.",
+        "images":  [
+                       "projects/mercury/cover.png",
+                       "projects/mercury/screenshot-01.png",
+                       "projects/mercury/screenshot-02.png",
+                       "projects/mercury/screenshot-03.png",
+                       "projects/mercury/screenshot-04.png",
+                       "projects/mercury/screenshot-05.png",
+                       "projects/mercury/screenshot-06.png",
+                       "projects/mercury/screenshot-07.png"
+                   ]
+    },
+    {
+        "slug":  "fibery",
+        "name":  "10. Fibery",
+        "url":  "https://fibery.io/",
+        "category":  "SaaS / Work Management Platform",
+        "description":  "Flexible workspace combining knowledge management, databases, project planning, and interconnected business workflows.",
+        "images":  [
+                       "projects/fibery/cover.png",
+                       "projects/fibery/screenshot-01.png",
+                       "projects/fibery/screenshot-02.png",
+                       "projects/fibery/screenshot-03.png",
+                       "projects/fibery/screenshot-04.png",
+                       "projects/fibery/screenshot-05.png",
+                       "projects/fibery/screenshot-06.png",
+                       "projects/fibery/screenshot-07.png",
+                       "projects/fibery/screenshot-08.png"
+                   ]
+    },
+    {
+        "slug":  "nuclino",
+        "name":  "11. Nuclino",
+        "url":  "https://www.nuclino.com/",
+        "category":  "SaaS / Knowledge Management",
+        "description":  "Collaborative workspace and knowledge-management platform for teams and organizations.",
+        "images":  [
+                       "projects/nuclino/cover.png",
+                       "projects/nuclino/screenshot-01.png",
+                       "projects/nuclino/screenshot-02.png",
+                       "projects/nuclino/screenshot-03.png",
+                       "projects/nuclino/screenshot-04.png",
+                       "projects/nuclino/screenshot-05.png",
+                       "projects/nuclino/screenshot-06.png",
+                       "projects/nuclino/screenshot-07.png",
+                       "projects/nuclino/screenshot-08.png"
+                   ]
+    },
+    {
+        "slug":  "zerion",
+        "name":  "12. Zerion",
+        "url":  "https://zerion.io/",
+        "category":  "Blockchain/Web3 / Wallet \u0026 DeFi Platform",
+        "description":  "Web3 wallet and portfolio-management platform for crypto assets, DeFi positions, NFTs, and blockchain transactions.",
+        "images":  [
+                       "projects/zerion/cover.png",
+                       "projects/zerion/screenshot-01.png",
+                       "projects/zerion/screenshot-02.png",
+                       "projects/zerion/screenshot-03.png",
+                       "projects/zerion/screenshot-04.png",
+                       "projects/zerion/screenshot-05.png",
+                       "projects/zerion/screenshot-06.png"
+                   ]
+    },
+    {
+        "slug":  "savvycal",
+        "name":  "13. SavvyCal",
+        "url":  "https://savvycal.com/",
+        "category":  "SaaS / Scheduling \u0026 Calendar Platform",
+        "description":  "Scheduling and calendar-coordination platform designed to simplify meeting planning for individuals and teams.",
+        "images":  [
+                       "projects/savvycal/cover.png",
+                       "projects/savvycal/screenshot-01.png",
+                       "projects/savvycal/screenshot-02.png",
+                       "projects/savvycal/screenshot-03.png",
+                       "projects/savvycal/screenshot-04.png",
+                       "projects/savvycal/screenshot-05.png",
+                       "projects/savvycal/screenshot-06.png",
+                       "projects/savvycal/screenshot-07.png",
+                       "projects/savvycal/screenshot-08.png"
+                   ]
+    },
+    {
+        "slug":  "posthog",
+        "name":  "14. PostHog",
+        "url":  "https://posthog.com/",
+        "category":  "Analytics / Product Intelligence Platform",
+        "description":  "Product analytics platform combining event tracking, funnels, session replay, feature flags, and experimentation.",
+        "images":  [
+                       "projects/posthog/cover.png",
+                       "projects/posthog/screenshot-01.png",
+                       "projects/posthog/screenshot-02.png",
+                       "projects/posthog/screenshot-03.png",
+                       "projects/posthog/screenshot-04.png",
+                       "projects/posthog/screenshot-05.png",
+                       "projects/posthog/screenshot-06.png",
+                       "projects/posthog/screenshot-07.png"
+                   ]
+    }
+]
