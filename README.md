@@ -13,10 +13,6 @@ Specialized in **full-stack development**, **real-time systems**, **healthcare &
   <a href="https://antonkarasbiz.github.io/portfolio/">
     <img src="https://img.shields.io/badge/🎠_Interactive_Gallery-View_Slideshows-ff6600?style=for-the-badge&labelColor=171c20&logo=github&logoColor=white" alt="Interactive Gallery — View Slideshows" />
   </a>
-  &nbsp;
-  <a href="https://github.com/antonkarasbiz/portfolio">
-    <img src="https://img.shields.io/badge/📁_Portfolio-View_Projects-ff8a00?style=for-the-badge&labelColor=171c20&logo=github&logoColor=white" alt="Portfolio — View Projects" />
-  </a>
 </p>
 
 <p align="center"><em>Click any project cover to open its slideshow in the interactive gallery.</em></p>
