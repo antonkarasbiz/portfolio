@@ -13,7 +13,7 @@ function createCarousel(project) {
 
   card.innerHTML = `
     <h2>${project.name}</h2>
-    <p class="category">${project.category}</p>
+    <p class="description">${project.description}</p>
     <div class="carousel" data-index="0" data-count="${images.length}">
       <div class="carousel-viewport">
         <div class="carousel-track">
@@ -31,7 +31,6 @@ function createCarousel(project) {
       </div>
       <p class="counter">1 / ${images.length}</p>
     </div>
-    <p class="description">${project.description}</p>
     <div class="card-actions">
       <a class="btn btn-primary" href="${project.url}" target="_blank" rel="noopener noreferrer">View Live Project</a>
     </div>
