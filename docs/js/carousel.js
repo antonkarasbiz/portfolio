@@ -19,7 +19,7 @@ function createCarousel(project) {
         <div class="carousel-track">
           ${images.map((src, index) => `
             <div class="carousel-slide${index === 0 ? ' is-cover' : ' is-screenshot'}">
-              <img src="${src}" width="100%" height="240" alt="${project.name} image ${index + 1}" loading="lazy" style="object-fit:cover; display:block;" />
+              <img src="${src}" width="100%" height="240" alt="${project.name} image ${index + 1}" loading="lazy" style="object-fit:cover; object-position:top center; display:block;" />
             </div>
           `).join('')}
         </div>
