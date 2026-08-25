@@ -17,11 +17,16 @@ function createCarousel(project) {
     <div class="carousel" data-index="0" data-count="${images.length}">
       <div class="carousel-viewport">
         <div class="carousel-track">
-          ${images.map((src, index) => `
-            <div class="carousel-slide">
-              <img src="${src}" alt="${project.name} screenshot ${index + 1}" loading="lazy" />
-            </div>
-          `).join('')}
+          ${images.map((src, index) => {
+            const isCover = index === 0;
+            const slideClass = isCover ? 'carousel-slide is-cover' : 'carousel-slide is-screenshot';
+            const fit = isCover ? 'cover' : 'contain';
+            const label = isCover ? 'cover' : `screenshot ${index}`;
+            return `
+            <div class="${slideClass}">
+              <img src="${src}" width="100%" height="240" alt="${project.name} ${label}" loading="lazy" style="object-fit:${fit}; display:block;" />
+            </div>`;
+          }).join('')}
         </div>
       </div>
       <button class="carousel-btn prev" type="button" aria-label="Previous image">‹</button>
