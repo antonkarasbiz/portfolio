@@ -116,10 +116,10 @@ header p {
   margin-bottom: 14px;
 }
 
-/* Uniform frame — matches normalized 1040×960 cover canvas */
+/* Uniform frame — matches 900×600 cover images */
 .carousel-viewport {
   width: 100%;
-  aspect-ratio: 1040 / 960;
+  aspect-ratio: 900 / 600;
   overflow: hidden;
   border-radius: 10px;
   border: 1px solid #30363b;
