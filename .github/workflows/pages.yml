@@ -15,6 +15,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Sync README cover images into docs
+        run: cp -r portfolio docs/portfolio
+
       - name: Deploy docs to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:

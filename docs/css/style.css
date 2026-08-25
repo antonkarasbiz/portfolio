@@ -137,12 +137,22 @@ header p {
   overflow: hidden;
 }
 
-.carousel-slide img {
+/* Slide 1 — same frame as Featured Projects in README (240px, object-fit: cover) */
+.carousel-slide.is-cover img {
   width: 100%;
   height: 240px;
   object-fit: cover;
+  display: block;
+}
+
+/* Additional screenshots — full image visible, not cropped */
+.carousel-slide.is-screenshot img {
+  width: 100%;
+  height: 240px;
+  object-fit: contain;
   object-position: center center;
   display: block;
+  background: #0d1114;
 }
 
 .carousel-btn {
@@ -211,5 +221,6 @@ footer {
 
   .carousel-viewport { height: 240px; }
 
-  .carousel-slide img { height: 240px; }
+  .carousel-slide.is-cover img,
+  .carousel-slide.is-screenshot img { height: 240px; }
 }
