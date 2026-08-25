@@ -118,7 +118,7 @@ header p {
 
 .carousel-viewport {
   width: 100%;
-  height: 300px;
+  height: 340px;
   overflow: hidden;
   border-radius: 10px;
   border: 1px solid var(--border);
@@ -139,8 +139,10 @@ header p {
 .carousel-slide img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
   display: block;
+  background: #0d1114;
 }
 
 .carousel-btn {
@@ -207,5 +209,5 @@ footer {
     grid-template-columns: 1fr;
   }
 
-  .carousel-viewport { height: 260px; }
+  .carousel-viewport { height: 300px; }
 }
