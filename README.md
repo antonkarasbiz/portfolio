@@ -9,6 +9,14 @@
 
 Specialized in **full-stack development**, **real-time systems**, **healthcare & booking platforms**, **DeFi/trading interfaces**, and **AI-powered products** — from product design through production deployment.
 
+<p align="center">
+  <a href="https://antonkarasbiz.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Interactive%20Gallery-View%20Slideshows-ff8a00?style=for-the-badge&logo=github&logoColor=white" alt="Interactive Gallery — View Slideshows" />
+  </a>
+</p>
+
+<p align="center"><em>Browse cover images and project screenshots with prev/next buttons in the interactive gallery.</em></p>
+
 
 ## Featured Projects
 
@@ -37,6 +45,7 @@ Open-source hotel-management and reservation platform covering PMS, online booki
 </p>
 
 <p align="center"><a href="https://qloapps.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#qloapps">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -62,6 +71,7 @@ Privacy-focused AI chat platform providing AI-assisted conversations, coding, wr
 </p>
 
 <p align="center"><a href="https://littleaibox.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#littleaibox">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -90,6 +100,7 @@ Decentralized trading platform combining blockchain technology with a high-perfo
 </p>
 
 <p align="center"><a href="https://www.paradex.trade/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#paradex">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -115,6 +126,7 @@ Dental-clinic management application designed to manage patients, appointments, 
 </p>
 
 <p align="center"><a href="https://demo.dentalpin.com/login">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#dentalpin">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -143,6 +155,7 @@ AI platform for document processing, computer vision, medical AI, and intelligen
 </p>
 
 <p align="center"><a href="https://www.v7labs.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#v7labs">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -168,6 +181,7 @@ Relationship-focused CRM designed for founders, agencies, sales teams, and growi
 </p>
 
 <p align="center"><a href="https://www.folk.app/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#folk">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -196,6 +210,7 @@ Live-shopping marketplace where sellers showcase products through interactive li
 </p>
 
 <p align="center"><a href="https://www.whatnot.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#whatnot">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -221,6 +236,7 @@ Healthcare practice-management platform for medical practices and healthcare pro
 </p>
 
 <p align="center"><a href="https://www.tebra.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#tebra">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -249,6 +265,7 @@ Flexible work management platform for product and startup teams. Combines docs, 
 </p>
 
 <p align="center"><a href="https://fibery.io/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#fibery">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -274,6 +291,7 @@ Modern banking platform built for startups and growing businesses. Provides busi
 </p>
 
 <p align="center"><a href="https://mercury.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#mercury">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -302,6 +320,7 @@ Collaborative wiki and knowledge base for teams. Enables structured documentatio
 </p>
 
 <p align="center"><a href="https://www.nuclino.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#nuclino">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -327,6 +346,7 @@ Open-source product analytics platform for engineering and product teams. Combin
 </p>
 
 <p align="center"><a href="https://posthog.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#posthog">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -355,6 +375,7 @@ Scheduling and calendar coordination platform designed for teams and professiona
 </p>
 
 <p align="center"><a href="https://savvycal.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#savvycal">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
@@ -380,6 +401,7 @@ Web3 wallet and DeFi portfolio management platform. Provides a unified interface
 </p>
 
 <p align="center"><a href="https://zerion.io/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
+<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#zerion">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
 
 </td>
 
