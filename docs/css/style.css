@@ -138,11 +138,20 @@ header p {
   overflow: hidden;
 }
 
-/* Same frame as Featured Projects in README — fills div edge-to-edge */
-.carousel-slide img {
+/* Featured Projects style: fill frame edge-to-edge, anchor from top so titles stay visible */
+.carousel-slide.is-cover img {
   width: 100%;
   height: var(--carousel-height);
   object-fit: cover;
+  object-position: top center;
+  display: block;
+}
+
+.carousel-slide.is-screenshot img {
+  width: 100%;
+  height: var(--carousel-height);
+  object-fit: cover;
+  object-position: top center;
   display: block;
 }
 
@@ -212,5 +221,6 @@ footer {
 
   .carousel-viewport { height: var(--carousel-height); }
 
-  .carousel-slide img { height: var(--carousel-height); }
+  .carousel-slide.is-cover img,
+  .carousel-slide.is-screenshot img { height: var(--carousel-height); }
 }
