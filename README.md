@@ -28,9 +28,9 @@ Specialized in **full-stack development**, **real-time systems**, **healthcare &
 
 <h3 align="center">01. QloApps</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://qloapps.com/">
-    <img src="./portfolio/QloApps.png" width="100%" height="240" alt="Open-source hotel-management and reservation platform" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/QloApps.png" width="100%" height="400" alt="Open-source hotel-management and reservation platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -54,9 +54,9 @@ Open-source hotel-management and reservation platform covering PMS, online booki
 
 <h3 align="center">02. LittleAIBox</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://littleaibox.com/">
-    <img src="./portfolio/LittleAlBox.png" width="100%" height="240" alt="Privacy-focused AI chat platform" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/LittleAlBox.png" width="100%" height="400" alt="Privacy-focused AI chat platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -83,9 +83,9 @@ Privacy-focused AI chat platform providing AI-assisted conversations, coding, wr
 
 <h3 align="center">03. Paradex</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://www.paradex.trade/">
-    <img src="./portfolio/Paradex.png" width="100%" height="240" alt="Decentralized trading platform" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/Paradex.png" width="100%" height="400" alt="Decentralized trading platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -109,9 +109,9 @@ Decentralized trading platform combining blockchain technology with a high-perfo
 
 <h3 align="center">04. DentalPin</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://demo.dentalpin.com/login">
-    <img src="./portfolio/DentalPin.png" width="100%" height="240" alt="Dental-clinic management application" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/DentalPin.png" width="100%" height="400" alt="Dental-clinic management application" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -138,9 +138,9 @@ Dental-clinic management application designed to manage patients, appointments, 
 
 <h3 align="center">05. V7 Labs</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://www.v7labs.com/">
-    <img src="./portfolio/V7 Labs.png" width="100%" height="240" alt="AI platform for document processing and computer vision" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/V7 Labs.png" width="100%" height="400" alt="AI platform for document processing and computer vision" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -164,9 +164,9 @@ AI platform for document processing, computer vision, medical AI, and intelligen
 
 <h3 align="center">06. folk</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://www.folk.app/">
-    <img src="./portfolio/folk.png" width="100%" height="240" alt="Relationship-focused CRM" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/folk.png" width="100%" height="400" alt="Relationship-focused CRM" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -193,9 +193,9 @@ Relationship-focused CRM designed for founders, agencies, sales teams, and growi
 
 <h3 align="center">07. Whatnot</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://www.whatnot.com/">
-    <img src="./portfolio/Whatnot.png" width="100%" height="240" alt="Live-shopping marketplace" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/Whatnot.png" width="100%" height="400" alt="Live-shopping marketplace" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -219,9 +219,9 @@ Live-shopping marketplace where sellers showcase products through interactive li
 
 <h3 align="center">08. Tebra</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://www.tebra.com/">
-    <img src="./portfolio/Tebra.png" width="100%" height="240" alt="Healthcare practice-management platform" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/Tebra.png" width="100%" height="400" alt="Healthcare practice-management platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -248,9 +248,9 @@ Healthcare practice-management platform for medical practices and healthcare pro
 
 <h3 align="center">09. Fibery</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://fibery.io/">
-    <img src="./portfolio/Fibery.png" width="100%" height="240" alt="Flexible work management platform" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/Fibery.png" width="100%" height="400" alt="Flexible work management platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -274,9 +274,9 @@ Flexible work management platform for product and startup teams. Combines docs, 
 
 <h3 align="center">10. Mercury</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://mercury.com/">
-    <img src="./portfolio/Mercury.png" width="100%" height="240" alt="Banking platform for startups" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/Mercury.png" width="100%" height="400" alt="Banking platform for startups" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -303,9 +303,9 @@ Modern banking platform built for startups and growing businesses. Provides busi
 
 <h3 align="center">11. Nuclino</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://www.nuclino.com/">
-    <img src="./portfolio/Nuclino.png" width="100%" height="240" alt="Collaborative team wiki and knowledge base" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/Nuclino.png" width="100%" height="400" alt="Collaborative team wiki and knowledge base" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -329,9 +329,9 @@ Collaborative wiki and knowledge base for teams. Enables structured documentatio
 
 <h3 align="center">12. PostHog</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://posthog.com/">
-    <img src="./portfolio/PostHog.png" width="100%" height="240" alt="Open-source product analytics platform" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/PostHog.png" width="100%" height="400" alt="Open-source product analytics platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -358,9 +358,9 @@ Open-source product analytics platform for engineering and product teams. Combin
 
 <h3 align="center">13. SavvyCal</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://savvycal.com/">
-    <img src="./portfolio/SavvyCal.png" width="100%" height="240" alt="Scheduling and calendar coordination tool" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/SavvyCal.png" width="100%" height="400" alt="Scheduling and calendar coordination tool" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
@@ -384,9 +384,9 @@ Scheduling and calendar coordination platform designed for teams and professiona
 
 <h3 align="center">14. Zerion</h3>
 
-<div align="center" style="width:100%; height:240px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
+<div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
   <a href="https://zerion.io/">
-    <img src="./portfolio/Zerion.png" width="100%" height="240" alt="Web3 wallet and DeFi portfolio tracker" style="object-fit:cover; display:block;" />
+    <img src="./portfolio/Zerion.png" width="100%" height="400" alt="Web3 wallet and DeFi portfolio tracker" style="object-fit:cover; display:block;" />
   </a>
 </div>
 
