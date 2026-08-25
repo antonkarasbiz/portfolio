@@ -18,7 +18,7 @@ function createCarousel(project) {
       <div class="carousel-viewport">
         <div class="carousel-track">
           ${images.map((src, index) => `
-            <div class="carousel-slide">
+            <div class="carousel-slide${index === 0 ? ' is-cover' : ' is-screenshot'}">
               <img src="${src}" alt="${project.name} image ${index + 1}" loading="lazy" />
             </div>
           `).join('')}

@@ -6,7 +6,6 @@
   --muted: #9fa5aa;
   --accent: #ff8a00;
   --accent-hover: #ff9f2f;
-  --carousel-height: 400px;
 }
 
 * { box-sizing: border-box; }
@@ -117,10 +116,10 @@ header p {
   margin-bottom: 14px;
 }
 
-/* Same fixed frame for every project — full image scaled inside, no crop */
+/* Uniform frame — matches normalized 1040×960 cover canvas */
 .carousel-viewport {
   width: 100%;
-  height: var(--carousel-height);
+  aspect-ratio: 1040 / 960;
   overflow: hidden;
   border-radius: 10px;
   border: 1px solid #30363b;
@@ -139,7 +138,14 @@ header p {
   overflow: hidden;
 }
 
-.carousel-slide img {
+.carousel-slide.is-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  display: block;
+}
+
+.carousel-slide.is-screenshot img {
   width: 100%;
   height: 100%;
   object-fit: contain;
@@ -210,9 +216,5 @@ footer {
 @media (max-width: 768px) {
   .grid {
     grid-template-columns: 1fr;
-  }
-
-  :root {
-    --carousel-height: 320px;
   }
 }
