@@ -11,11 +11,15 @@ Specialized in **full-stack development**, **real-time systems**, **healthcare &
 
 <p align="center">
   <a href="https://antonkarasbiz.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Interactive%20Gallery-View%20Slideshows-ff8a00?style=for-the-badge&logo=github&logoColor=white" alt="Interactive Gallery — View Slideshows" />
+    <img src="https://img.shields.io/badge/🎠_Interactive_Gallery-View_Slideshows-ff6600?style=for-the-badge&labelColor=171c20&logo=github&logoColor=white" alt="Interactive Gallery — View Slideshows" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/antonkarasbiz/portfolio">
+    <img src="https://img.shields.io/badge/📁_Portfolio-View_Projects-ff8a00?style=for-the-badge&labelColor=171c20&logo=github&logoColor=white" alt="Portfolio — View Projects" />
   </a>
 </p>
 
-<p align="center"><em>Browse cover images and project screenshots with prev/next buttons in the interactive gallery.</em></p>
+<p align="center"><em>Click any project cover to open its slideshow in the interactive gallery.</em></p>
 
 
 ## Featured Projects
@@ -29,7 +33,7 @@ Specialized in **full-stack development**, **real-time systems**, **healthcare &
 <h3 align="center">01. QloApps</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://qloapps.com/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#qloapps">
     <img src="./portfolio/QloApps.png" width="100%" height="400" alt="Open-source hotel-management and reservation platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -45,8 +49,6 @@ Open-source hotel-management and reservation platform covering PMS, online booki
 </p>
 
 <p align="center"><a href="https://qloapps.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#qloapps">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 <!-- PROJECT 2 -->
@@ -55,7 +57,7 @@ Open-source hotel-management and reservation platform covering PMS, online booki
 <h3 align="center">02. LittleAIBox</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://littleaibox.com/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#littleaibox">
     <img src="./portfolio/LittleAlBox.png" width="100%" height="400" alt="Privacy-focused AI chat platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -71,8 +73,6 @@ Privacy-focused AI chat platform providing AI-assisted conversations, coding, wr
 </p>
 
 <p align="center"><a href="https://littleaibox.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#littleaibox">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 </tr>
@@ -84,7 +84,7 @@ Privacy-focused AI chat platform providing AI-assisted conversations, coding, wr
 <h3 align="center">03. Paradex</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://www.paradex.trade/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#paradex">
     <img src="./portfolio/Paradex.png" width="100%" height="400" alt="Decentralized trading platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -100,8 +100,6 @@ Decentralized trading platform combining blockchain technology with a high-perfo
 </p>
 
 <p align="center"><a href="https://www.paradex.trade/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#paradex">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 <!-- PROJECT 4 -->
@@ -110,7 +108,7 @@ Decentralized trading platform combining blockchain technology with a high-perfo
 <h3 align="center">04. DentalPin</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://demo.dentalpin.com/login">
+  <a href="https://antonkarasbiz.github.io/portfolio/#dentalpin">
     <img src="./portfolio/DentalPin.png" width="100%" height="400" alt="Dental-clinic management application" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -126,8 +124,6 @@ Dental-clinic management application designed to manage patients, appointments, 
 </p>
 
 <p align="center"><a href="https://demo.dentalpin.com/login">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#dentalpin">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 </tr>
@@ -139,7 +135,7 @@ Dental-clinic management application designed to manage patients, appointments, 
 <h3 align="center">05. V7 Labs</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://www.v7labs.com/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#v7labs">
     <img src="./portfolio/V7 Labs.png" width="100%" height="400" alt="AI platform for document processing and computer vision" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -155,8 +151,6 @@ AI platform for document processing, computer vision, medical AI, and intelligen
 </p>
 
 <p align="center"><a href="https://www.v7labs.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#v7labs">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 <!-- PROJECT 6 -->
@@ -165,7 +159,7 @@ AI platform for document processing, computer vision, medical AI, and intelligen
 <h3 align="center">06. folk</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://www.folk.app/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#folk">
     <img src="./portfolio/folk.png" width="100%" height="400" alt="Relationship-focused CRM" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -181,8 +175,6 @@ Relationship-focused CRM designed for founders, agencies, sales teams, and growi
 </p>
 
 <p align="center"><a href="https://www.folk.app/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#folk">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 </tr>
@@ -194,7 +186,7 @@ Relationship-focused CRM designed for founders, agencies, sales teams, and growi
 <h3 align="center">07. Whatnot</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://www.whatnot.com/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#whatnot">
     <img src="./portfolio/Whatnot.png" width="100%" height="400" alt="Live-shopping marketplace" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -210,8 +202,6 @@ Live-shopping marketplace where sellers showcase products through interactive li
 </p>
 
 <p align="center"><a href="https://www.whatnot.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#whatnot">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 <!-- PROJECT 8 -->
@@ -220,7 +210,7 @@ Live-shopping marketplace where sellers showcase products through interactive li
 <h3 align="center">08. Tebra</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://www.tebra.com/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#tebra">
     <img src="./portfolio/Tebra.png" width="100%" height="400" alt="Healthcare practice-management platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -236,8 +226,6 @@ Healthcare practice-management platform for medical practices and healthcare pro
 </p>
 
 <p align="center"><a href="https://www.tebra.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#tebra">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 </tr>
@@ -249,7 +237,7 @@ Healthcare practice-management platform for medical practices and healthcare pro
 <h3 align="center">09. Fibery</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://fibery.io/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#fibery">
     <img src="./portfolio/Fibery.png" width="100%" height="400" alt="Flexible work management platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -265,8 +253,6 @@ Flexible work management platform for product and startup teams. Combines docs, 
 </p>
 
 <p align="center"><a href="https://fibery.io/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#fibery">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 <!-- PROJECT 10 -->
@@ -275,7 +261,7 @@ Flexible work management platform for product and startup teams. Combines docs, 
 <h3 align="center">10. Mercury</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://mercury.com/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#mercury">
     <img src="./portfolio/Mercury.png" width="100%" height="400" alt="Banking platform for startups" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -291,8 +277,6 @@ Modern banking platform built for startups and growing businesses. Provides busi
 </p>
 
 <p align="center"><a href="https://mercury.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#mercury">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 </tr>
@@ -304,7 +288,7 @@ Modern banking platform built for startups and growing businesses. Provides busi
 <h3 align="center">11. Nuclino</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://www.nuclino.com/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#nuclino">
     <img src="./portfolio/Nuclino.png" width="100%" height="400" alt="Collaborative team wiki and knowledge base" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -320,8 +304,6 @@ Collaborative wiki and knowledge base for teams. Enables structured documentatio
 </p>
 
 <p align="center"><a href="https://www.nuclino.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#nuclino">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 <!-- PROJECT 12 -->
@@ -330,7 +312,7 @@ Collaborative wiki and knowledge base for teams. Enables structured documentatio
 <h3 align="center">12. PostHog</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://posthog.com/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#posthog">
     <img src="./portfolio/PostHog.png" width="100%" height="400" alt="Open-source product analytics platform" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -346,8 +328,6 @@ Open-source product analytics platform for engineering and product teams. Combin
 </p>
 
 <p align="center"><a href="https://posthog.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#posthog">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 </tr>
@@ -359,7 +339,7 @@ Open-source product analytics platform for engineering and product teams. Combin
 <h3 align="center">13. SavvyCal</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://savvycal.com/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#savvycal">
     <img src="./portfolio/SavvyCal.png" width="100%" height="400" alt="Scheduling and calendar coordination tool" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -375,8 +355,6 @@ Scheduling and calendar coordination platform designed for teams and professiona
 </p>
 
 <p align="center"><a href="https://savvycal.com/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#savvycal">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 <!-- PROJECT 14 -->
@@ -385,7 +363,7 @@ Scheduling and calendar coordination platform designed for teams and professiona
 <h3 align="center">14. Zerion</h3>
 
 <div align="center" style="width:100%; height:400px; overflow:hidden; border-radius:10px; border:1px solid #30363b;">
-  <a href="https://zerion.io/">
+  <a href="https://antonkarasbiz.github.io/portfolio/#zerion">
     <img src="./portfolio/Zerion.png" width="100%" height="400" alt="Web3 wallet and DeFi portfolio tracker" style="object-fit:cover; display:block;" />
   </a>
 </div>
@@ -401,8 +379,6 @@ Web3 wallet and DeFi portfolio management platform. Provides a unified interface
 </p>
 
 <p align="center"><a href="https://zerion.io/">🔗 <strong>VIEW LIVE PROJECT</strong></a></p>
-<p align="center"><a href="https://antonkarasbiz.github.io/portfolio/#zerion">🎠 <strong>VIEW SLIDESHOW</strong></a></p>
-
 </td>
 
 </tr>
