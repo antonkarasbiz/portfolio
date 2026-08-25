@@ -1,10 +1,9 @@
-﻿[
+[
     {
         "slug":  "qloapps",
         "name":  "01. QloApps",
         "url":  "https://qloapps.com/",
-        "category":  "Full-Stack Web Application / Booking \u0026 Reservation",
-        "description":  "Open-source hotel-management and reservation platform covering PMS, online booking, hotel websites, and channel management.",
+        "description":  "Open-source hotel-management and reservation platform with PMS, online booking, and channel management.",
         "images":  [
                        "projects/qloapps/cover.png",
                        "projects/qloapps/screenshot-01.png",
@@ -19,8 +18,7 @@
         "slug":  "littleaibox",
         "name":  "02. LittleAIBox",
         "url":  "https://littleaibox.com/",
-        "category":  "AI-Powered Application",
-        "description":  "Privacy-focused AI chat platform providing AI-assisted conversations, coding, writing, translation, and research tools.",
+        "description":  "Privacy-focused AI chat platform for coding, writing, translation, and research.",
         "images":  [
                        "projects/littleaibox/cover.png"
                    ]
@@ -29,8 +27,7 @@
         "slug":  "paradex",
         "name":  "03. Paradex",
         "url":  "https://www.paradex.trade/",
-        "category":  "Blockchain/Web3 / Real-Time Web Application",
-        "description":  "Decentralized trading platform combining blockchain technology with a high-performance exchange experience.",
+        "description":  "Decentralized trading platform with perpetual futures, options, spot trading, and real-time markets.",
         "images":  [
                        "projects/paradex/cover.png",
                        "projects/paradex/screenshot-01.png",
@@ -44,8 +41,7 @@
         "slug":  "dentalpin",
         "name":  "04. DentalPin",
         "url":  "https://demo.dentalpin.com/login",
-        "category":  "Healthcare Management / Database \u0026 API Integration",
-        "description":  "Dental-clinic management application designed to manage patients, appointments, budgets, payments, and day-to-day clinic operations.",
+        "description":  "Dental-clinic management app for patients, appointments, budgets, payments, and daily operations.",
         "images":  [
                        "projects/dentalpin/cover.png",
                        "projects/dentalpin/screenshot-01.png",
@@ -58,7 +54,6 @@
         "slug":  "v7labs",
         "name":  "05. V7 Labs",
         "url":  "https://www.v7labs.com/",
-        "category":  "AI Platform / Computer Vision \u0026 Data Extraction",
         "description":  "AI platform for document processing, computer vision, medical AI, and intelligent data extraction.",
         "images":  [
                        "projects/v7labs/cover.png",
@@ -77,8 +72,7 @@
         "slug":  "folk",
         "name":  "06. folk",
         "url":  "https://www.folk.app/",
-        "category":  "CRM / Relationship Management SaaS",
-        "description":  "Relationship-focused CRM designed for founders, agencies, sales teams, and growing businesses.",
+        "description":  "Relationship-focused CRM for contact management, pipelines, communication, and workflows.",
         "images":  [
                        "projects/folk/cover.png",
                        "projects/folk/screenshot-01.png",
@@ -91,8 +85,7 @@
         "slug":  "whatnot",
         "name":  "07. Whatnot",
         "url":  "https://www.whatnot.com/",
-        "category":  "E-Commerce / Live Streaming Marketplace",
-        "description":  "Live-shopping marketplace where sellers showcase products through interactive livestreams.",
+        "description":  "Live-shopping marketplace with interactive livestreams, auctions, and social product discovery.",
         "images":  [
                        "projects/whatnot/cover.png",
                        "projects/whatnot/screenshot-01.png",
@@ -108,8 +101,7 @@
         "slug":  "tebra",
         "name":  "08. Tebra",
         "url":  "https://www.tebra.com/",
-        "category":  "Healthcare Management / Practice Management",
-        "description":  "Healthcare practice-management platform for medical practices and healthcare providers.",
+        "description":  "Healthcare practice-management platform for patient scheduling, billing, payments, and clinical workflows.",
         "images":  [
                        "projects/tebra/cover.png",
                        "projects/tebra/screenshot-01.png",
@@ -122,8 +114,7 @@
         "slug":  "mercury",
         "name":  "09. Mercury",
         "url":  "https://mercury.com/",
-        "category":  "FinTech / Banking \u0026 Payments Platform",
-        "description":  "Modern business banking platform designed primarily for startups and growing companies.",
+        "description":  "Modern business banking platform for startups with payments, cards, transfers, and financial tools.",
         "images":  [
                        "projects/mercury/cover.png",
                        "projects/mercury/screenshot-01.png",
@@ -139,8 +130,7 @@
         "slug":  "fibery",
         "name":  "10. Fibery",
         "url":  "https://fibery.io/",
-        "category":  "SaaS / Work Management Platform",
-        "description":  "Flexible workspace combining knowledge management, databases, project planning, and interconnected business workflows.",
+        "description":  "Flexible workspace for knowledge management, databases, project planning, and team workflows.",
         "images":  [
                        "projects/fibery/cover.png",
                        "projects/fibery/screenshot-01.png",
@@ -157,8 +147,7 @@
         "slug":  "nuclino",
         "name":  "11. Nuclino",
         "url":  "https://www.nuclino.com/",
-        "category":  "SaaS / Knowledge Management",
-        "description":  "Collaborative workspace and knowledge-management platform for teams and organizations.",
+        "description":  "Collaborative wiki and knowledge base for team documentation and shared workspaces.",
         "images":  [
                        "projects/nuclino/cover.png",
                        "projects/nuclino/screenshot-01.png",
@@ -175,8 +164,7 @@
         "slug":  "zerion",
         "name":  "12. Zerion",
         "url":  "https://zerion.io/",
-        "category":  "Blockchain/Web3 / Wallet \u0026 DeFi Platform",
-        "description":  "Web3 wallet and portfolio-management platform for crypto assets, DeFi positions, NFTs, and blockchain transactions.",
+        "description":  "Web3 wallet and portfolio tracker for crypto assets, DeFi positions, NFTs, and dApps.",
         "images":  [
                        "projects/zerion/cover.png",
                        "projects/zerion/screenshot-01.png",
@@ -191,8 +179,7 @@
         "slug":  "savvycal",
         "name":  "13. SavvyCal",
         "url":  "https://savvycal.com/",
-        "category":  "SaaS / Scheduling \u0026 Calendar Platform",
-        "description":  "Scheduling and calendar-coordination platform designed to simplify meeting planning for individuals and teams.",
+        "description":  "Scheduling platform for booking links, calendar overlays, availability, and meeting coordination.",
         "images":  [
                        "projects/savvycal/cover.png",
                        "projects/savvycal/screenshot-01.png",
@@ -209,8 +196,7 @@
         "slug":  "posthog",
         "name":  "14. PostHog",
         "url":  "https://posthog.com/",
-        "category":  "Analytics / Product Intelligence Platform",
-        "description":  "Product analytics platform combining event tracking, funnels, session replay, feature flags, and experimentation.",
+        "description":  "Product analytics platform with event tracking, funnels, session replay, and feature flags.",
         "images":  [
                        "projects/posthog/cover.png",
                        "projects/posthog/screenshot-01.png",
