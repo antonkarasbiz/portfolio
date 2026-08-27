@@ -11,7 +11,7 @@ Specialized in **full-stack development**, **real-time systems**, **healthcare &
 
 <p align="center">
   <a href="https://antonkarasbiz.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🎠_Interactive_Gallery-View_Slideshows-ff6600?style=for-the-badge&labelColor=171c20&logo=github&logoColor=white" alt="Interactive Gallery — View Slideshows" />
+    <img src="https://img.shields.io/badge/Portfolio_%E2%80%94_View_Slideshows-ff6600?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio — View Slideshows" />
   </a>
 </p>
 
