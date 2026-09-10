@@ -6,7 +6,19 @@
 
 Selected product work across **full-stack platforms**, **blockchain / Web3 systems**, and **AI-powered software**. Each case study emphasizes architecture, performance, security, and a production-ready user experience.
 
-Practice areas: **real-time trading interfaces**, **healthcare and booking operations**, **DeFi and RWA**, **LLM products**, and **SaaS foundations** — from product design through deployment.
+Practice areas: **prediction-market trading**, **on-chain execution**, **real-time trading interfaces**, **healthcare and booking operations**, **DeFi and RWA**, **LLM products**, and **SaaS foundations**.
+
+## Trading and blockchain
+
+| Repository | Role |
+| --- | --- |
+| [polymarket-trading-bot](https://github.com/antonkarasbiz/polymarket-trading-bot) | Polymarket CLOB execution with paper trading and risk limits |
+| [polymarket-market-maker](https://github.com/antonkarasbiz/polymarket-market-maker) | Inventory-skewed two-sided quotes |
+| [polymarket-analytics](https://github.com/antonkarasbiz/polymarket-analytics) | Book metrics and read-only market features |
+| [solana-execution-engine](https://github.com/antonkarasbiz/solana-execution-engine) | Solana swap simulation and impact caps |
+| [evm-order-router](https://github.com/antonkarasbiz/evm-order-router) | EVM venue selection under a gas ceiling |
+| [crossyield-rwa-bridge](https://github.com/antonkarasbiz/crossyield-rwa-bridge) | Cross-chain RWA yield routing |
+| [paradex-trading](https://github.com/antonkarasbiz/paradex-trading) | Perpetuals and options trading platform |
 
 <p align="center">
   <a href="https://antonkarasbiz.github.io/portfolio/">
