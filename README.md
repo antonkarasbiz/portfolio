@@ -2,12 +2,11 @@
 <!--                 ANTON KARAS — PORTFOLIO                     -->
 <!-- ========================================================= -->
 
-# My Portfolio
+# Engineering portfolio
 
-*Welcome to my portfolio.*
-*I build **scalable web applications, robust backend systems, blockchain solutions, and AI-powered software** with a focus on clean architecture, performance, security, and modern user experiences.*
+Selected product work across **full-stack platforms**, **blockchain / Web3 systems**, and **AI-powered software**. Each case study emphasizes architecture, performance, security, and a production-ready user experience.
 
-Specialized in **full-stack development**, **real-time systems**, **healthcare & booking platforms**, **DeFi/trading interfaces**, and **AI-powered products** — from product design through production deployment.
+Practice areas: **real-time trading interfaces**, **healthcare and booking operations**, **DeFi and RWA**, **LLM products**, and **SaaS foundations** — from product design through deployment.
 
 <p align="center">
   <a href="https://antonkarasbiz.github.io/portfolio/">
